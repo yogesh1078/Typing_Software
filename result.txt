@@ -1,0 +1,6 @@
+Results:
+WPM: 0
+Wrong Words: 3
+Correct Words: 0
+Accuracy: 0%
+Time Taken: 15 seconds
