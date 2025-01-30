@@ -22,7 +22,7 @@ To set up the Typing Software on your local machine, follow these steps:
    ```
 
 2. **Compile the Source Code**:
-
+     Source code Link : https://github.com/yogesh1078/Typing_Software
    Ensure you have a C compiler installed. Then, compile the code using:
 
    ```bash
